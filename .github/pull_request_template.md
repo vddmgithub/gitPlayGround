@@ -14,3 +14,9 @@ _Share the description_
 
 ### Code Coverage 
 Code coverage in percentage
+
+### Vulnerability Report
+Major
+Critical
+Minor
+

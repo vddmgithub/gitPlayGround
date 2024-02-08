@@ -19,4 +19,3 @@ Code coverage in percentage
 Blocker
 Critical
 Major
-

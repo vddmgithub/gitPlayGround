@@ -16,7 +16,7 @@ _Share the description_
 Code coverage in percentage
 
 ### Vulnerability Report
-Major
+Blocker
 Critical
-Minor
+Major
 
